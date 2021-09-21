@@ -24,7 +24,7 @@
 					<form:errors path="user.*" />
 				</p>
 
-				<form:form method="POST" action="/register" modelAttribute="user">
+				<form:form method="POST" action="/registration" modelAttribute="user">
 					<p>
 						<form:label path="firstname">First Name:</form:label>
 						<form:input type="text" path="firstname" />
@@ -55,7 +55,7 @@
 				<p>
 					<c:out value="${error}" />
 				</p>
-				<form method="post" action="/">
+				<form method="post" action="/login">
 					<p>
 						<label type="email" for="email">Email</label> <input type="text"
 							id="email" name="email" />

@@ -469,3 +469,15 @@ java.lang.IllegalArgumentException:
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-21 09:37:22.490
 !MESSAGE executing callback sts4.classpath.dcYrpzUG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-21 18:46:13.554
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.dcYrpzUG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-21 18:46:13.555
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.dcYrpzUG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-21 18:46:13.556
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-21 18:46:13.557
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.dcYrpzUG => OK
