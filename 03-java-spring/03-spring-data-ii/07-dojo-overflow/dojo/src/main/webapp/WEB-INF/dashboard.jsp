@@ -37,9 +37,10 @@
 				</c:forEach>
 			</tbody>
 		</table>
-		<a href="/create" class="btn btn-primary stretched-link">Create a Question</a>
+		<a href="/create" class="btn btn-primary"> Create a Question </a>
 	</div>
-
+	
+<%-- 	<button onclick="location.href='/ideas/${idea.id}/edit'"  type="button" class="btn btn-secondary">Edit</button> --%>
 
 </body>
 </html>
